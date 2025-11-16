@@ -1,0 +1,22 @@
+# 3ds Max files
+*.max
+*.mat
+*.chr
+*.ms
+*.mse
+*.mcr
+*.dlx
+
+# Temporary files
+*.autosave
+*.mbak
+*.bak
+*.tmp
+
+# Logs
+Max.log
+*.ini
+
+# System
+Thumbs.db
+.DS_Store
